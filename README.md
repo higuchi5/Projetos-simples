@@ -8,11 +8,15 @@ Aqui você vai encontrar pequenos projetos feitos com HTML, CSS e JavaScript.
 A ideia é treinar lógica, organização de código e construir um portfólio sólido.
 
 ▶️ Como rodar os projetos
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
 
-# Entre na pasta
-cd seu-repo
+# Clone o repositório
+git clone https://github.com/higuchi5/Projetos-simples.git
+
+# Entre na pasta do repositório
+cd Projetos-simples
+
+# Depois entre no projeto desejado (exemplo:)
+cd calculadora
 
 # Abra o index.html no navegador
 
